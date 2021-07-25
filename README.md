@@ -5,8 +5,8 @@ With rising property rates, most people avail home loans to buy their dream hous
 
 ## Data description
 The dataset folder contains the following: <br>
- •	train.csv. (30000, 24)
- •	test.csv. (20000, 23)
+ •	train.csv. (30000, 24) <br>
+ •	test.csv. (20000, 23) <br>
  •	sample_submission.csv (5,2)
 
 ## The columns in the dataset are as follows:
