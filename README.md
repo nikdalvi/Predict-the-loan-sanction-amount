@@ -42,4 +42,4 @@ The dataset folder contains the following: <br>
 
 
 ## Evaluation metric
-The evaluation metric for this task is `R2 score`. Read it up here[https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html]
+The evaluation metric for this task is `R2 score`. Read it up [here](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
