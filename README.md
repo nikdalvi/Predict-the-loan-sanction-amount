@@ -39,3 +39,7 @@ The dataset folder contains the following: <br>
 - Co-Applicant	- Represents whether a customer has co-applicants
 - Property Price	- Represents the selling price of a property
 - Loan Sanction Amount (USD) -	Represents the loan sanctioned amount for a customer
+
+
+## Evaluation metric
+The evaluation metric for this task is `R2 score`. Read it up here[https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html]
