@@ -27,18 +27,18 @@ The dataset folder contains the following: <br>
 - `Loan Amount Request (USD)`	- Represents the loan amount requested by a customer 
 - `Current Loan Expenses (USD)`	- If a customer has any current active loans, then this represents the amount that a customer spends on these loans (monthly)
 - `Expense Type 1`	- Represents a type of expense that a customer spends on (monthly)
-- Expense Type 2	- Represents a type of expense that a customer spends on (monthly)
-- Dependents - Represents whether a customer has any dependencies (spouse, parents, siblings, children,etc)
-- Credit Score -	Represents the credit score of a customer
-- No. of Defaults -	Represents the number of time a customer has defaulted
-- Has Active Credit Card	- Represents if a customer has any active credit cards or not
-- Property ID	- Represents an identification number of a property
-- Property Age	- Represents the age of a property
-- Property Type	- Represents the type of property
-- Property Location	- Represents the location of a property
-- Co-Applicant	- Represents whether a customer has co-applicants
-- Property Price	- Represents the selling price of a property
-- Loan Sanction Amount (USD) -	Represents the loan sanctioned amount for a customer
+- `Expense Type 2`	- Represents a type of expense that a customer spends on (monthly)
+- `Dependents` - Represents whether a customer has any dependencies (spouse, parents, siblings, children,etc)
+- `Credit Score` -	Represents the credit score of a customer
+- `No. of Defaults` -	Represents the number of time a customer has defaulted
+- `Has Active Credit Card`	- Represents if a customer has any active credit cards or not
+- `Property ID`	- Represents an identification number of a property
+- `Property Age`	- Represents the age of a property
+- `Property Type`	- Represents the type of property
+- `Property Location`	- Represents the location of a property
+- `Co-Applicant`	- Represents whether a customer has co-applicants
+- `Property Price`	- Represents the selling price of a property
+- `Loan Sanction Amount (USD)` -	Represents the loan sanctioned amount for a customer
 
 
 ## Evaluation metric
